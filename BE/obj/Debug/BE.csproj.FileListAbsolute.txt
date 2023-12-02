@@ -1,0 +1,12 @@
+C:\Proyecto-Visual2022\Estudiante\BE\bin\Debug\BE.dll
+C:\Proyecto-Visual2022\Estudiante\BE\bin\Debug\BE.pdb
+C:\Proyecto-Visual2022\Estudiante\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Proyecto-Visual2022\Estudiante\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Proyecto-Visual2022\Estudiante\BE\obj\Debug\BE.dll
+C:\Proyecto-Visual2022\Estudiante\BE\obj\Debug\BE.pdb
+C:\visualcodeSQ\Estudiante\BE\bin\Debug\BE.dll
+C:\visualcodeSQ\Estudiante\BE\bin\Debug\BE.pdb
+C:\visualcodeSQ\Estudiante\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\visualcodeSQ\Estudiante\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\visualcodeSQ\Estudiante\BE\obj\Debug\BE.dll
+C:\visualcodeSQ\Estudiante\BE\obj\Debug\BE.pdb
